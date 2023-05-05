@@ -1,0 +1,11 @@
+{
+  "name": "usesynchronous",
+  "version": "0.9.0",
+  "description": "Synchronous computation hook.",
+  "main": "useSynchronous.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arkless",
+  "license": "MIT"
+}
